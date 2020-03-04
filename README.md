@@ -6,13 +6,13 @@ An ambitious developer with experience designing, building, scaling, and maintai
 
 ### Experience
 
-[Booking.com](https://experiences.booking.com/attractions/city/nl/amsterdam.en-gb.html) | Software Developer – [The "this is awesome" phase](https://gph.is/2qjWXXP)
+[Booking.com](https://experiences.booking.com/attractions/city/nl/amsterdam.en-gb.html) | Software Developer – [The "this is awesome" phase](https://gifimage.net/wp-content/uploads/2017/06/unlimited-power-gif-3.gif)
 ---: | :---
-Nov 2017 – Present Amsterdam, NL | Thrived as a graduate developer in an experienced team working on instant messaging infrastructure which supported high-volume live chat and chat bot applications. As my first taste of development on a large scale, I quickly learned how vital communication and effective collaboration are for complex software to succeed. Moved into a permanent position in the attractions infrastructure team, taking ownership of important projects spanning multiple teams. A key contributor to the core microservices including performance-centric availability and resilient reservation systems as part of our migration to a service-oriented architecture. Ensured quality code and regular deployments through automated testing and continuous integration pipelines. Led a hackathon project to create a merge request analysis bot to help foster a constructive code reviewing culture which has now been widely adopted across the company.
+Nov 2017 – Present Amsterdam, NL | Thrived as a graduate developer in an experienced team working on instant messaging infrastructure which supported high-volume live chat and chat bot applications. As my first taste of development on a large scale, I quickly learned how vital communication and effective collaboration are for complex software to succeed. Moved into a permanent position in the attractions infrastructure team, taking ownership of important projects spanning multiple teams. A key contributor to the core microservices including performance-centric availability and resilient reservation systems as part of our migration to a containerised service-oriented architecture running on Kubernetes. Ensured quality code and regular deployments through automated testing and continuous integration pipelines. Organised and led a hackathon project to create a merge request analysis bot to help foster a constructive code reviewing culture which has now been widely adopted across the company.
 
 [EDI Plus](https://www.edi-plus.com/) | Junior Software Developer – [The “this is actually pretty fun” phase](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZTf3y5qO41qkeC_VRPvPzdc0j50tQUVFG5zSSsMNxPLq6SjTd)
 ---: | :---
-Sep 2016 – Dec 2016 Plymouth, UK | Got to grips with the full development lifecycle working on a large-scale modular web application. Developed internal tooling to automate invoice generation, drastically increasing throughput and reducing errors.
+Sep 2016 – Dec 2016 Plymouth, UK | Got to grips with the full development lifecycle working on a large-scale modular web application. Took the initiative and developed internal tooling to automate invoice generation, drastically increasing throughput and reducing errors.
 
 [Mainz University](https://wwwa2.kph.uni-mainz.de/a2detector-system/) | A2 Collaboration Intern – [The “physics meets software” phase](https://images.squarespace-cdn.com/content/v1/54ecf547e4b021b682d33bdc/1430372121975-TJG3Z7I9UGQT59WC5ZU3/ke17ZwdGBToddI8pDm48kJBOASV7Rs0lnoorGGRRXhVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIC9lv3J9wYV_XRdj0XOL-1Y1JMGtQSuTtb0taQ8bIaPIKMshLAGzx4R3EDFOm1kBS/Contact+ET.jpg?format=1500w)
 ---: | :---
@@ -28,7 +28,7 @@ Oct 2012 – Jul 2016 | Received the Hatfield College Baxter Prize for academic 
 
 ### Skills
 
-- **Languages:** Daily Java and Perl. Familiar with Python, Javascript, and Rust.
+- **Languages:** Daily Java and Perl. Familiar with Python, Go, Rust, and Javascript.
 - **Technologies:** Daily MySQL, Kubernetes, Docker, and Git. Familiar with Cassandra, Kafka, and Redis.
 
 
